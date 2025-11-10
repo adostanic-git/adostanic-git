@@ -39,7 +39,7 @@ I believe that good code isn’t just about making things work — it’s about 
 
 If you share a passion for clean design, efficient code, and continuous learning — feel free to reach out or check out my repositories!  
 
-💼 [LinkedIn]([[https://www.linkedin.com/in/andrej-dostanic-30a846398/])   
+💼 [LinkedIn](https://www.linkedin.com/in/andrej-dostanic-30a846398/)   
 📧 andrejdostanic9@gmail.com  
 
 
