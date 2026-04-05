@@ -3,9 +3,11 @@
 💻 Full Stack Software Developer | Building Scalable Web Applications
 📍 Belgrade, Serbia | 📧 andrejdostanic9@gmail.com
  | [LinkedIn](https://www.linkedin.com/in/andrej-dostanic-30a846398/) |📞 +381641275039  | [Portfolio](https://port-tawny-seven.vercel.app/) 
-
-Motivated full stack developer
 ---
+
+## 🌟 Summary
+Motivated Full Stack Software Developer with hands-on experience in building functional and scalable web applications. Strong focus on backend development using Java and Spring Boot, with additional experience in PHP (Laravel), Node.js, and Python. Skilled in designing clean architectures, implementing secure authentication systems, and developing full CRUD-based applications. Passionate about writing maintainable code, solving complex problems, and continuously improving both technical and software design skills.
+--
 
 ## ⚙️ Tech & Tools
 
