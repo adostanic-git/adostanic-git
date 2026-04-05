@@ -1,20 +1,17 @@
 # 👋 Hi, I'm Andrej Dostanić
 
-💻 **Web Developer | Java & Spring Boot Enthusiast | Problem Solver**
+💻 Full Stack Software Developer | Building Scalable Web Applications
+📍 Belgrade, Serbia | 📧 andrejdostanic9@gmail.com
+ | [LinkedIn](https://www.linkedin.com/in/andrej-dostanic-30a846398/) |📞 +381641275039  | [Portfolio](https://port-tawny-seven.vercel.app/) 
 
-I'm a passionate **web developer** dedicated to building modern, scalable, and high-quality web applications.  
-I enjoy turning complex problems into simple, elegant, and functional solutions — both on the front-end and the back-end.
-
-My main focus is on **Java** and **Spring Boot**, but I also have experience with **Flask**, **Laravel**, **Vue.js**, **SQL**, **MySQL**, **Python**, **HTML**, and **CSS**, which allows me to work across the full stack and adapt to different project needs.  
-I believe that good code isn’t just about making things work — it’s about making them work well, efficiently, and with purpose.
-
+Motivated Full Stack Software Developer with hands-on experience in building functional and scalable web applications. Strong focus on backend development using Java and Spring Boot, with additional experience in PHP (Laravel), Node.js, and Python. Skilled in designing clean architectures, implementing secure authentication systems, and developing full CRUD-based applications. Passionate about writing maintainable code, solving complex problems, and continuously improving both technical and software design skills.
 ---
 
 ## ⚙️ Tech & Tools
 
 🖥️ **Front-end:** HTML • CSS • JavaScript • Vue.js  
-⚙️ **Back-end:** Java • Spring Boot • PHP • MySQL • Flask • Laravel  
-🧩 **Other:** Python • SQL • Git • Bootstrap • REST APIs • Linux  
+⚙️ **Back-end:** Java • PHP • MySQL • Python • C# • Python
+🧩 **Frameworks:** Spring Boot, Flask, Laravel, Node.js, REST API  
 
 ---
 
